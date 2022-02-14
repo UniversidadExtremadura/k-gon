@@ -1,4 +1,5 @@
     // UNIVERSITY OF EXTREMADURA
+    // CC BY-NC-ND 4.0
 	
     #include <iostream>
     #include <algorithm>
