@@ -1,5 +1,6 @@
     // UNIVERSITY OF EXTREMADURA
-    // CC BY-NC-ND 4.0
+	// MEDIA ENGINEERING GROUP
+	// CONTACT: andresc@unex.es
 	
     #include <iostream>
     #include <algorithm>

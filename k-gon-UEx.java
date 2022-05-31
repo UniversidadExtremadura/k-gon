@@ -1,3 +1,8 @@
+// UNIVERSITY OF EXTREMADURA
+// MEDIA ENGINEERING GROUP
+// CONTACT: andresc@unex.es
+	
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;

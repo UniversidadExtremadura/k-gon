@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec 22 17:25:16 2021
-
-@author: ALVAROBANDO
-Añado algunos comentarios para que se entienda un poco mejor el codigo aunque milagros no hago.
+UNIVERSITY OF EXTREMADURA
+MEDIA ENGINEERING GROUP
+CONTACT: andresc@unex.es
 """
 import numpy as np
 from time import time
